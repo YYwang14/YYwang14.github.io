@@ -1,152 +1,86 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Yongyi Wang",
+    "email": "yongyi@wustl.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://YYwang14.github.io",
+    "summary": "Ph.D. student in Computer Science at Washington University in St. Louis. Researching trustworthy AI-enabled cyber-physical systems and secure agentic AI systems.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "St. Louis",
       "countryCode": "US",
-      "region": ""
+      "region": "MO"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
         "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "0009-0004-7286-6126",
+        "url": "https://orcid.org/0009-0004-7286-6126"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "YYwang14",
+        "url": "https://github.com/YYwang14"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "yongyi-wang-006056215",
+        "url": "http://linkedin.com/in/yongyi-wang-006056215"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Washington University in St. Louis",
+      "area": "Computer Science",
+      "studyType": "Ph.D. student",
+      "startDate": "2025",
+      "endDate": "present",
       "gpa": null,
       "courses": []
     }
   ],
   "skills": [],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Research",
+      "keywords": [
+        "Trustworthy AI-enabled cyber-physical systems",
+        "Physical-world adversarial robustness",
+        "Secure agentic AI systems",
+        "Internet of Agents",
+        "Robotics and perception security"
+      ]
+    }
+  ],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "publications": [],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "COMS W4115 Programming Languages and Translators",
+      "institution": "Columbia University, Department of Computer Science",
+      "date": "Sept. 2024 - Dec. 2024",
+      "role": "Teaching Assistant",
+      "description": "Supported a 40-student upper-level programming languages and compilers course; held office hours and graded programming assignments, exams, and final language-implementation projects."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "CS 70: Data Structures/Program Development",
+      "institution": "Harvey Mudd College, Department of Computer Science",
+      "date": "Sept. 2022 - Dec. 2022",
+      "role": "Head Teaching Assistant",
+      "description": "Served as senior TA; held three weekly office hours, evaluated homework and exams, and assisted other TAs with course-support questions."
+    },
+    {
+      "course": "CS 5: Introduction to Computer Science",
+      "institution": "Harvey Mudd College, Department of Computer Science",
+      "date": "Feb. 2022 - May 2022",
+      "role": "Teaching Assistant",
+      "description": "Supported lab sessions, weekly student meetings, and homework help for introductory programming and theoretical computer science topics."
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }

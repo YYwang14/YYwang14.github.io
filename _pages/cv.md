@@ -9,56 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
+<p><a href="{{ base_path }}/files/Yongyi_Wang_CV_2026.pdf" class="btn btn--primary">Download current CV PDF</a></p>
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. student in Computer Science, Washington University in St. Louis, 2025-present
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Trustworthy AI-enabled cyber-physical systems
+* Physical-world adversarial robustness
+* Secure agentic AI systems
+* Internet of Agents
+* Robotics and perception security
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+{% assign research_items = site.portfolio | sort: "order" %}
+<ul>{% for post in research_items %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+No accepted publications yet.
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+Advising
 ======
-* Currently signed in to 43 different slack teams
+* Advisor: Prof. Ning Zhang
+* Lab: Computer Security and Privacy Laboratory, Washington University in St. Louis
+
+Contact
+======
+* Email: <a href="mailto:yongyi@wustl.edu">yongyi@wustl.edu</a>
+* ORCID: <a href="https://orcid.org/0009-0004-7286-6126">0009-0004-7286-6126</a>
