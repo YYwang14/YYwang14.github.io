@@ -21,3 +21,8 @@ package-lock.json
 
 # Ignore files created by MacOS
 .DS_Store
+vendor/bundle/
+.bundle/
+.sass-cache/
+.jekyll-cache/
+_site/
