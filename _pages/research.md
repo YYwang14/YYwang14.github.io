@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research
-
 My research focuses on trustworthy AI-enabled cyber-physical and agentic systems. I am interested in how AI systems behave when deployed in physical, robotic, and agent-to-agent environments, especially under adversarial or uncertain conditions.
 
 ## Current Research
