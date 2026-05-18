@@ -3,7 +3,7 @@ title: "Exploratory Evaluation of Vision-Language-Action Models on LIBERO"
 excerpt: "2026. Exploratory evaluation of instruction-following limitations in VLA models on LIBERO."
 collection: portfolio
 permalink: /research/libero-vla-evaluation/
-citation: "Exploratory Evaluation of Vision-Language-Action Models on LIBERO. 2026."
+period: "2026"
 order: 5
 ---
 

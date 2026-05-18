@@ -3,7 +3,7 @@ title: "Physical-World Robustness of Object Detectors"
 excerpt: "2025-2026. Studying physical-world adversarial patch robustness against object detectors across the physical-to-digital pipeline."
 collection: portfolio
 permalink: /research/physical-world-robustness-object-detectors/
-citation: "Physical-World Robustness of Object Detectors. 2025-2026."
+period: "2025-2026"
 order: 1
 ---
 

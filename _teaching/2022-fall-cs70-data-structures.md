@@ -6,7 +6,7 @@ permalink: /teaching/2022-fall-cs70-data-structures/
 venue: "Harvey Mudd College, Department of Computer Science"
 date: 2022-09-01
 location: "Claremont, CA"
-citation: "Head Teaching Assistant, CS 70: Data Structures/Program Development, Harvey Mudd College, Department of Computer Science, Sept. 2022 - Dec. 2022."
+period: "Sept. 2022 - Dec. 2022"
 excerpt: "Sept. 2022 - Dec. 2022. Served as senior TA for a data structures and program development course."
 ---
 

@@ -27,7 +27,7 @@ Research Projects
 ======
 {% assign research_items = site.portfolio | sort: "order" %}
 <ul>{% for post in research_items %}
-  {% include archive-single-cv.html %}
+  <li><strong>{{ post.title }}</strong>, {{ post.period }}</li>
 {% endfor %}</ul>
 
 Publications
@@ -37,7 +37,7 @@ No accepted publications yet.
 Teaching
 ======
 <ul>{% for post in site.teaching reversed %}
-  {% include archive-single-cv.html %}
+  <li><strong>{{ post.title }}</strong>, {{ post.venue }}, {{ post.period }}</li>
 {% endfor %}</ul>
 
 Advising

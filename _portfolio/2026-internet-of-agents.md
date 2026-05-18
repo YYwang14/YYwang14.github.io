@@ -3,7 +3,7 @@ title: "Internet of Agents"
 excerpt: "2026. Developing an initial lab-scale Internet of Agents prototype for LLM agents and studying trust in open agent-to-agent ecosystems."
 collection: portfolio
 permalink: /research/internet-of-agents/
-citation: "Internet of Agents. 2026."
+period: "2026"
 order: 2
 ---
 

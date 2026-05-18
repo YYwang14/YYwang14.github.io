@@ -11,5 +11,11 @@ author_profile: true
 
 {% assign research_items = site.portfolio | sort: "order" %}
 {% for post in research_items %}
-  {% include archive-single.html %}
+  <section class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2 class="archive__item-title" itemprop="headline">{{ post.title }}</h2>
+    {% if post.period %}<p class="page__meta">{{ post.period }}</p>{% endif %}
+    <div class="archive__item-excerpt" itemprop="description">
+      {{ post.content }}
+    </div>
+  </section>
 {% endfor %}
