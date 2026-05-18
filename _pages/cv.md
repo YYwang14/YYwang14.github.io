@@ -43,7 +43,8 @@ Teaching
 Advising
 ======
 * Advisor: Prof. Ning Zhang
-* Lab: Computer Security and Privacy Laboratory, Washington University in St. Louis
+* Lab: <a href="https://cybersecurity.seas.wustl.edu/">CSPL Lab</a>
+* School: Washington University in St. Louis
 
 Contact
 ======

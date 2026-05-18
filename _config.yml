@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Yongyi Wang"
 title_separator          : "-"
 name                     : &name "Yongyi Wang"
-description              : &description "Ph.D. student in Computer Science at Washington University in St. Louis, working on trustworthy AI-enabled cyber-physical systems and secure agentic AI systems."
+description              : &description "Ph.D. student in Computer Science at CSPL Lab, Washington University in St. Louis, working on trustworthy AI-enabled cyber-physical systems and secure agentic AI systems."
 url                      : https://YYwang14.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.jpeg"
   name             : "Yongyi Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student in Computer Science at Washington University in St. Louis. Researching trustworthy AI-enabled cyber-physical systems and secure agentic AI systems."
+  bio              : "Ph.D. student in Computer Science at <a href=\"https://cybersecurity.seas.wustl.edu/\">CSPL Lab</a>, Washington University in St. Louis."
   location         : "St. Louis, MO"
-  employer         : "Computer Security and Privacy Laboratory, Washington University in St. Louis"
+  employer         : "Washington University in St. Louis"
   uri              : "https://YYwang14.github.io"
   email            : "yongyi@wustl.edu" 
 

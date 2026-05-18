@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at Washington University in St. Louis, advised by Prof. Ning Zhang in the Computer Security and Privacy Laboratory.
+I am a Ph.D. student in Computer Science at [CSPL Lab](https://cybersecurity.seas.wustl.edu/), Washington University in St. Louis, advised by Prof. Ning Zhang.
 
 My research focuses on trustworthy AI-enabled cyber-physical and agentic systems. I am interested in how AI systems behave when deployed in physical, robotic, and agent-to-agent environments, especially under adversarial or uncertain conditions.
 
